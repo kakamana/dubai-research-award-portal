@@ -1,17 +1,19 @@
 import React, { useState } from 'react';
-import MainNavigation from './MainNavigation';
-import MainNavigationArabic from './MainNavigationArabic';
+// import MainNavigation from './MainNavigation';
+// import MainNavigationArabic from './MainNavigationArabic';
+import MainNavigation from './MainNavigationResponsive';
+import MainNavigationArabic from './MainNavigationArabicResponsive';
 
 
 // Import your individual section components
-import AboutAwardComponent from './AboutAward';
-import AboutAwardArabic from './AboutAwardArabic';
-import DubaiResearchPortal from './DubaiResearchPortal';
-import DubaiResearchArabic from './DubaiResearchArabic';
-import ResearchCriteriaComponent from './ResearchCriteria';
-import ResearchCriteriaArabic from './ResearchCriteriaArabic';
-import RewardsComponent from './Reward';
-import RewardsComponentArabic from './RewardArabic';
+// import AboutAwardComponent from './AboutAward';
+// import AboutAwardArabic from './AboutAwardArabic';
+// import DubaiResearchPortal from './DubaiResearchPortal';
+// import DubaiResearchArabic from './DubaiResearchArabic';
+// import ResearchCriteriaComponent from './ResearchCriteria';
+// import ResearchCriteriaArabic from './ResearchCriteriaArabic';
+// import RewardsComponent from './Reward';
+// import RewardsComponentArabic from './RewardArabic';
 // ... and any other components you need
 
 const App = () => {
